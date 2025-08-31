@@ -1,6 +1,6 @@
 # ui-ux-Colgate-hero-section-
 an HTML &amp; CSS template ~Mar,2024
-<h2>only a hero section</h2>
+<p>only a hero section</p>
 responsive (90%)
 
 
